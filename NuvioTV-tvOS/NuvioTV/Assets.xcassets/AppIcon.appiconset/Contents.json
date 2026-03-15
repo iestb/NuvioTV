@@ -1,22 +1,18 @@
 {
   "images" : [
     {
-      "filename" : "app-icon-large.png",
       "idiom" : "tv",
-      "role" : "large",
-      "scale" : "1x"
+      "role" : "primary-app-icon",
+      "size" : "400x240"
     },
     {
-      "filename" : "app-icon-small.png",
       "idiom" : "tv",
-      "role" : "small-front",
-      "scale" : "1x"
+      "role" : "primary-app-icon",
+      "size" : "1280x768"
     },
     {
-      "filename" : "app-icon-small@2x.png",
-      "idiom" : "tv",
-      "role" : "small-front",
-      "scale" : "2x"
+      "idiom" : "tv-marketing",
+      "size" : "1920x720"
     }
   ],
   "info" : {

@@ -65,7 +65,6 @@
 			isa = PBXGroup;
 			children = (
 				AA100001 /* NuvioTVApp.swift */,
-				AA100002 /* ContentView.swift */,
 				AA100018 /* Assets.xcassets */,
 				AA100019 /* Info.plist */,
 				AA500001 /* Views */,
@@ -95,6 +94,7 @@
 		AA500001 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				AA100002 /* ContentView.swift */,
 				AA100003 /* HomeView.swift */,
 				AA100004 /* DetailView.swift */,
 				AA100005 /* SearchView.swift */,
