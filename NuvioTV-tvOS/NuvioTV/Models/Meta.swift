@@ -83,7 +83,7 @@ struct MetaBehaviorHints: Codable, Equatable {
 }
 
 // MARK: - Preview meta item for catalog rows
-struct MetaPreview: Identifiable, Codable, Equatable {
+struct MetaPreview: Identifiable, Codable, Equatable, Hashable {
     let id: String
     let type: ContentType
     let name: String

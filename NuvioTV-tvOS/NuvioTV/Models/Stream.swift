@@ -1,6 +1,6 @@
 import Foundation
 
-struct Stream: Identifiable, Codable, Equatable {
+struct Stream: Identifiable, Codable, Equatable, Hashable {
     let id: UUID
     let name: String?
     let title: String?
